@@ -10,8 +10,8 @@ First of all, we are waiting to get a new server.  For now, some of this (i.e. t
  * Members only section via eRaider SHIM (making the parts form private as well)
  * Content Management System (custom, or re-skinned pre-existing?)
  * Linking to facebook and twitter
-  * "Like" button
-  * News feeds
+   * "Like" button
+   * News feeds
  * Sponsorship area
  * Live readings area for streaming data from car
   * Video
