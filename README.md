@@ -24,10 +24,10 @@ First of all, we are waiting to get a new server.  For now, some of this (i.e. t
    * Solar current flow status (Maybe via diagram based on solar array configurations?)
    * Video
    * Temperatures
-    * Cockpit
-    * Solar Array
-    * Batteries
-    * Outside Ambient Temperature
+     * Cockpit
+     * Solar Array
+     * Batteries
+     * Outside Ambient Temperature
    * Speed
    * Regenerative systems usefulness/contributions
 
