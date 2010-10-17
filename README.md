@@ -17,19 +17,19 @@ First of all, we are waiting to get a new server.  For now, some of this (i.e. t
   * Video
   * Sensors
   * Other useful information, noted below are what we have thought of so far.  These are only poss possibilities, and not all are expected to be implemented.
-   * GPS
-   * Route info
-   * Current time
-   * Battery Status
-   * Solar current flow status (Maybe via diagram based on solar array configurations?)
-   * Video
-   * Temperatures
-     * Cockpit
-     * Solar Array
-     * Batteries
-     * Outside Ambient Temperature
-   * Speed
-   * Regenerative systems usefulness/contributions
+    * GPS
+    * Route info
+    * Current time
+    * Battery Status
+    * Solar current flow status (Maybe via diagram based on solar array configurations?)
+    * Video
+    * Temperatures
+      * Cockpit
+      * Solar Array
+      * Batteries
+      * Outside Ambient Temperature
+    * Speed
+    * Regenerative systems usefulness/contributions
 
 The following are optional, but would be great if we can get them in:
 
