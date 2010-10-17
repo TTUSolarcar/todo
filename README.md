@@ -19,7 +19,7 @@ First of all, we are waiting to get a new server.  For now, some of this (i.e. t
   * Other useful information, noted below are what we have thought of so far.  These are only poss possibilities, and not all are expected to be implemented.
     * GPS
     * Route info
-    * Current time
+    * Current race time
     * Battery Status
     * Solar current flow status (Maybe via diagram based on solar array configurations?)
     * Video
